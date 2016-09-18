@@ -1,0 +1,6 @@
+{
+  "name": "randomhost/steamsignature",
+  "tagline": "Displays the online status of Steam players as PNG image.",
+  "body": "[![Build Status][0]][1]\r\n\r\nIntroduction\r\n============\r\n\r\nThis package reads the API and XML feeds of Valve's Steam platform and displays\r\nthe current online status of players as PNG image, designed to be used in forum\r\nand blog signatures.\r\n\r\nThe included redirect function detects whether the player is currently playing\r\non a multiplayer server and either redirects visitors clicking the signature\r\nimage to the player's steam profile or turns into a join link which will connect\r\ndirectly to the multiplayer server if Steam is running on the visitors system.\r\n\r\nUsage\r\n-----\r\n\r\nThe `randomhost/steamsignature` package API is currently in the process of being\r\nwritten. A usage example will follow once the API is considered stable enough.\r\n\r\n\r\n\r\nLicense\r\n-------\r\n\r\nSee LICENSE.txt for full license details.\r\n\r\n[0]: https://travis-ci.org/randomhost/steamsignature.svg\r\n[1]: https://travis-ci.org/randomhost/steamsignature\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
